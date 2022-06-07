@@ -33,7 +33,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
   ![Blender](https://img.shields.io/badge/Blender-333333?style=flat&logo=blender)
 
-<br/>
+<h3> 📊 &nbsp;Github stats</h3>
 
 <a href="https://github.com/noel-lopez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noel-lopez&theme=buefy&show_icons=true" />
