@@ -36,8 +36,8 @@
 <h3> 📊 &nbsp;Github stats</h3>
 
 <a href="https://github.com/noel-lopez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noel-lopez&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-lopez&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=noel-lopez&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-lopez&theme=buefy&layout=compact" />
 </a>
 
 <br/>
