@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Higher Technician in Multi-platform Applications Development.
-- 💼 &nbsp; Currently looking for a full time Developer job
+- 💼 &nbsp; Currently working as FrontEnd developer in [billdin](https://billdin.com)
 - 🌱 &nbsp; Learning more about React and Python.
 - ✍️ &nbsp; Pursuing 3D Modeling and Video editing as hobbies/side hustles.
 
