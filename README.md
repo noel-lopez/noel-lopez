@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nlopezmo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Noel%20Lopez%20Montes-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nlopezmo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Noel%20Lopez-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nlopez.publi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nlopez.publi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
