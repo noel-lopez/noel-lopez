@@ -4,9 +4,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Higher Technician in Multi-platform Applications Development.
-- 💼 &nbsp; Currently working as FrontEnd developer in [billdin](https://billdin.com)
 - 🌱 &nbsp; Developing React apps and acquiring proficiency with TypeScript.
 - ✍️ &nbsp; Pursuing 3D Modeling and Video editing as hobbies/side hustles.
+<!-- - 💼 &nbsp; Currently working as FrontEnd developer in [billdin](https://billdin.com) -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
