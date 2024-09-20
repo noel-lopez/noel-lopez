@@ -1,38 +1,10 @@
 <h2> Hey there! I'm Noel.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+As a software craftsperson, I am committed to delivering high-quality, maintainable code and continuously improving my skills. I enjoy taking a proactive approach, contributing value and professionalism to every project I am involved in. 👨‍💻
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Higher Technician in Multi-platform Applications Development.
-- 🌱 &nbsp; Developing React apps and acquiring proficiency with TypeScript.
-- ✍️ &nbsp; Pursuing 3D Modeling and Video editing as hobbies/side hustles.
-<!-- - 💼 &nbsp; Currently working as FrontEnd developer in [billdin](https://billdin.com) -->
+In my free time, I work on open-source projects and I'm active in programming communities, where I like to help out when someone has a question. It's fun and I learn collectively with fellow professionals. 🙌🏻
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🛢 &nbsp;&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-333333?style=flat&logo=Adobe%20Premiere%20Pro)
-  ![After effects](https://img.shields.io/badge/Adobe%20After%20Effects-333333?style=flat&logo=Adobe%20After%20Effects)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
-  ![Blender](https://img.shields.io/badge/Blender-333333?style=flat&logo=blender)
+I'm detail-oriented and creative. I'm good at finding mistakes and solving problems. I believe in following good practices and writing clean code. ✨
 
 <h3> 📊 &nbsp;Github stats</h3>
 
@@ -45,10 +17,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
 <a href="https://www.linkedin.com/in/nlopezmo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Noel%20Lopez-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nlopez.publi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nlopez.publi@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 <!--
 **noel-lopez/noel-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
